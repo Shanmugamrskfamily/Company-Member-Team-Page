@@ -45,7 +45,6 @@ This website is designed to introduce visitors to the team members of [Your Comp
 
 - HTML
 - CSS
-- [Add any additional technologies used]
 
 ## Contributing
 

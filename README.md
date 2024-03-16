@@ -53,8 +53,6 @@ Contributions are welcome! If you have any suggestions, enhancements, or bug fix
 
 ## License
 
-[Choose an appropriate license for your project. For example:]
-
 This project is licensed under the [MIT License](LICENSE).
 
 In this template:
